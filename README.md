@@ -178,33 +178,45 @@ Budget → Intervention strategy
 
 ## Key Insights
 
-- Water access varies across provinces and towns  
-- Broken systems reduce effective access  
-- Queue times identify service gaps  
-- Water quality shows safety risks  
-- Crime follows time-based and regional patterns  
-- Budget allocation requires targeted planning  
+### Water Infrastructure
+- Water access varies by location  
+- Different regions depend on different water sources  
+
+### Crime Patterns
+- Crime distribution varies by gender and province  
+- Time-based patterns highlight peak activity periods  
+
+### Queue Behavior
+- Queue times vary by hour and day  
+- Some provinces experience longer delays  
+
+### Water Quality
+- Presence of contaminated water sources  
+- Clean water access is not uniform  
+
+### Budget Allocation
+- Budget distribution varies by region and project type  
+- Town-level data supports targeted investment  
 
 ---
 
 ## Impact
 
-Decision-makers:
-- Identify priority areas  
-- Allocate resources based on data  
-- Reduce inefficiencies  
+### Decision-Making
+- Enables targeted resource allocation  
+- Supports infrastructure planning  
 
-Communities:
-- Access clear information  
-- Understand local conditions  
-- Track resource allocation  
+### Governance
+- Improves transparency through data visibility  
 
----
+### Community Outcomes
+- Identifies underserved populations  
+- Supports equitable water access  
 
 ## Tools Used
 - Power BI  
 - Data visualization  
-- Data analysis  
+- Data analysis
 
 ---
 
@@ -216,4 +228,7 @@ Focus:
 - Improve access  
 - Reduce wait times  
 - Support safe water use  
-- Guide resource allocation  
+- Guide resource allocation
+
+## Conclusion
+This project demonstrates structured data analysis and visualization using Power BI. It converts complex datasets into clear insights. It supports planning, governance, and decision-making using data.
